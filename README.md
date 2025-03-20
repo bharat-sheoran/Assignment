@@ -21,7 +21,7 @@ To ensure everything works perfectly, please make sure you have the following in
 You can clone this project to your local machine by running this magical command:
 
 ```bash
-git clone https://github.com/yourusername/magical-project.git
+git clone https://github.com/bharat-sheoran/Assignment
 ```
 
 ### Step 2: Navigate to Your frontend

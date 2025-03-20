@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/config/firebase-admin.ts","./src/controllers/question.controller.ts","./src/controllers/user.controller.ts","./src/middleware/auth.middleware.ts","./src/models/question.model.ts","./src/models/user.model.ts","./src/routes/question.routes.ts","./src/routes/user.routes.ts"],"version":"5.7.2"}
