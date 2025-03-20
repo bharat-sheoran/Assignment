@@ -1,9 +1,8 @@
 import axios from 'axios';
-import { auth } from './firebase';
 import Cookies from 'js-cookie';
 
 const api = axios.create({
-  baseURL: 'http://localhost:5000/api',
+  baseURL: `${process.env.REACT_APP_API_URL}/api`,
 });
 
 // Add auth token to requests
