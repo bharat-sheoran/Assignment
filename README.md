@@ -50,8 +50,7 @@ npm run dev
 
 Backend
 ```bash
-tsc -b
-nodemon dist/index.js
+npm run dev
 ```
 
 Thank you for checking out our project! 🥰 We hope you find it as fun and useful as we did building it. Happy coding! 👨‍💻👩‍💻
