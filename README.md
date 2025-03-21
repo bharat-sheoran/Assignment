@@ -53,4 +53,8 @@ Backend
 npm run dev
 ```
 
+### Optional Step: Run MongoDB in Docker
+```bash
+docker run --name mongodb -d -p 27017:27017 -e MONGO_INITDB_ROOT_USERNAME=admin -e MONGO_INITDB_ROOT_PASSWORD=admin mongo
+```
 Thank you for checking out our project! 🥰 We hope you find it as fun and useful as we did building it. Happy coding! 👨‍💻👩‍💻
